@@ -1,4 +1,4 @@
-# Django 프로젝트 생성
+    # Django 프로젝트 생성
 1. 가상환경 설정(pyenv, pyenv-virtualenv)
     pyenv-virtualenv로 가상환경 생성 후 pyenv local (가상환경명)을 등록해주면 터미널에서 폴더 접근 시 자동으로 가상환경을 활성화한다.
 
